@@ -30,6 +30,6 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "Chinese Nationalism","Free Great General"
-		"cities": [Shanghai, Beijing, Nanking, Wuhan, Guangzhou, Yunnan,Xi'an, Lanzhou, Tsingato, yichan,]
+		"cities": ["Shanghai","Beijing","Nanking","Wuhan","Guangzhou","Yunnan","Xi'an","Lanzhou","Tsingato","yichan",]
 	}
 ]

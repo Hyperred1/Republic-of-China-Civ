@@ -27,9 +27,9 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [246,228,248],
 		"innerColor": [255,200,200],
-		"unique": "Chinese Nationalism","Free Great General"
+		"unique": "Chinese Nationalism",
 		"cities": ["Shanghai","Beijing","Nanking","Wuhan","Guangzhou","Yunnan","Xi'an","Lanzhou","Tsingato","yichan",]
 	}
 ]

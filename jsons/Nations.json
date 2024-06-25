@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Republic of China",
+		"leaderName": "Chiang Kai-shek",
+		"adjective": ["Chinese"],
+		"startBias": ["grassland"],
+		"preferredVictoryType": "Culture",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Chiang Kai-shek, leader of the ROC with the goal to spread Nationalism and democracy threw China was very close but the Sino-Japanese war lead to China being weakened and Pushed to Taiwan by the Communist",
+		"startIntroPart2": "Chiang Kai-shek can you try again and bring your goal to China ?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "The Republic of China Declares war on you",
+		"attacked": "We will show no mercy long live the ROC!",
+		"defeated": "China will rise up again one day",
+		"introduction": "I am Chiang Kai-shek Leader of the Republic of China.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],

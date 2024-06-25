@@ -5,7 +5,7 @@
 		"adjective": ["Chinese"],
 		"startBias": ["grassland"],
 		"preferredVictoryType": "Scientific",
-		"unique": "Free Great General",
+		
 		"startIntroPart1": "Chiang Kai-shek, leader of the ROC with the goal to spread Nationalism and democracy threw China was very close but the Sino-Japanese war lead to China being weakened and Pushed to Taiwan by the Communist",
 		"startIntroPart2": "Chiang Kai-shek can you try again and bring your goal to China ?",
 		
@@ -29,10 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"unique": "Chinese Nationalism","Free Great General"
+		"cities": [Shanghai, Beijing, Nanking, Wuhan, Guangzhou, Yunnan,Xi'an, Lanzhou, Tsingato, yichan,]
 	}
 ]

@@ -1,35 +1,28 @@
-[
-	{
-		"name": "Republic of China",
+
+		"name": "ROC",
 		"leaderName": "Chiang Kai-shek",
 		"adjective": ["Chinese"],
-		"startBias": ["grassland"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "Chiang Kai-shek, leader of the ROC with the goal to spread Nationalism and democracy threw China was very close but the Sino-Japanese war lead to China being weakened and Pushed to Taiwan by the Communist",
-		"startIntroPart2": "Chiang Kai-shek can you try again and bring your goal to China ?",
-		
-		"declaringWar": "The Republic of China Declares war on you",
-		"attacked": "We will show no mercy long live the ROC!",
-		"defeated": "China will rise up again one day",
-		"introduction": "I am Chiang Kai-shek Leader of the Republic of China.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"preferredVictoryType": "Domination",
+		"personality": "Wu Zetian",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+        "startIntroPart1": "Great president, Chiang Kai-shek Leader of the Republic of China after Sun Yat-sen died you took control of the KMT and fought the warlord era and United China before the Imperalist Japanese invaded and then after WW2 you was defeated by the Communist but your rein brought stability and unity with your Nationalist Democratic ideals ",
+        "startIntroPart2": "Can you Rebuild the ROC and can you New Empie shine threw the ages of History"
+        "declaringWar": "You have proven to be an enemy of the Great China your time ends now!.",
+		"attacked": " Ha! you will be slaughtered like the Japanese",
+		"defeated": "My people will rise up again one day this is not over.",
+		"introduction": "Greetings, I am President Chiang Kai-shek. China desires peace and development. You leave us alone, we'll leave you alone.",
+		"neutralHello": "How are you today?",
+		"hateHello": "Oh. It's you?",
+		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [246,228,248],
-		"innerColor": [255,200,200],
-		"unique": "Chinese Nationalism": "Free [Musketman] appears"
-		"cities": ["Shanghai","Beijing","Nanking","Wuhan","Guangzhou","Yunnan","Xi'an","Lanzhou","Tsingato","yichan",]
-	}
-]
+        "outerColor": [9, 112, 84],
+        "innerColor": [255,255,255],
+
+		"favoredReligion": "Taoism",
+		"uniqueName": "Chinese Nationalism",
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"], "[Culture is earned [20]% faster]"
+		"cities": ["Shanghai","Beijing","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
+			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
+			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
+			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]

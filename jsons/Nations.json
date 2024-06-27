@@ -3,7 +3,7 @@
 		"leaderName": "Chiang Kai-shek",
 		"adjective": ["Chinese"],
 		"preferredVictoryType": "Domination",
-		"personality": "Wu Zetian",
+		"personality": "Napoleon",
 
         "startIntroPart1": "Great president, Chiang Kai-shek Leader of the Republic of China after Sun Yat-sen died you took control of the KMT and fought the warlord era and United China before the Imperalist Japanese invaded and then after WW2 you was defeated by the Communist but your rein brought stability and unity with your Nationalist Democratic ideals ",
         "startIntroPart2": "Can you Rebuild the ROC and can you New Empie shine threw the ages of History"
@@ -20,7 +20,7 @@
 
 		"favoredReligion": "Taoism",
 		"uniqueName": "Chinese Nationalism",
-		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"], "[Culture is earned [20]% faster]"
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"], ["[+2 Culture] [in all cities]
 		"cities": ["Shanghai","Beijing","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
